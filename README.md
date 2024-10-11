@@ -1,7 +1,5 @@
 # International Telephone Input
 
-<!-- # WordPress Form Submission Project -->
-
 This WordPress project includes a form that collects user email addresses and phone numbers (with country codes). After submission, the data is stored in the database and can be viewed in the WordPress Admin dashboard.
 
 ## Project Setup
@@ -43,7 +41,3 @@ This WordPress project includes a form that collects user email addresses and ph
 - Country code selection for phone numbers.
 - Data stored securely in the WordPress database.
 - Easy access to submission data from the admin dashboard.
-
-## Support
-
-For support, please contact the project administrator.
